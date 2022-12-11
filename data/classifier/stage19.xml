@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<stage19>
+  <maxWeakCount>10</maxWeakCount>
+  <stageThreshold>-5.8543676137924194e-01</stageThreshold>
+  <weakClassifiers>
+    <_>
+      <internalNodes>
+        0 -1 79362 -1.8529137596487999e-03</internalNodes>
+      <leafValues>
+        9.1836732625961304e-01 -4.2253520339727402e-02</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 103201 6.9110083859413862e-04</internalNodes>
+      <leafValues>
+        -1.7952398955821991e-01 5.3989738225936890e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 14435 2.1586951334029436e-04</internalNodes>
+      <leafValues>
+        2.3531734943389893e-01 -5.9045106172561646e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 65685 1.9945347681641579e-02</internalNodes>
+      <leafValues>
+        -1.6866156458854675e-01 1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 79021 -2.8318856493569911e-04</internalNodes>
+      <leafValues>
+        3.8889878988265991e-01 -3.9221593737602234e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 696 -2.9276134446263313e-03</internalNodes>
+      <leafValues>
+        -2.7757370471954346e-01 4.3123084306716919e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 71485 -8.1012211740016937e-03</internalNodes>
+      <leafValues>
+        7.6168799400329590e-01 -2.2841964662075043e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 34679 -5.6087155826389790e-04</internalNodes>
+      <leafValues>
+        5.0456994771957397e-01 -2.3177090287208557e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 37411 -7.8506045974791050e-04</internalNodes>
+      <leafValues>
+        5.6867253780364990e-01 -2.9049882292747498e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 50071 3.4816487459465861e-04</internalNodes>
+      <leafValues>
+        3.5518917441368103e-01 -3.9340826869010925e-01</leafValues></_></weakClassifiers></stage19>
+</opencv_storage>

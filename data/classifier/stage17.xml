@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<stage17>
+  <maxWeakCount>10</maxWeakCount>
+  <stageThreshold>-1.1354794502258301e+00</stageThreshold>
+  <weakClassifiers>
+    <_>
+      <internalNodes>
+        0 -1 57614 -8.7315201759338379e-02</internalNodes>
+      <leafValues>
+        -9.4444441795349121e-01 2.2558923065662384e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 56217 -9.9957641214132309e-03</internalNodes>
+      <leafValues>
+        8.3953517675399780e-01 -2.1239544451236725e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 14419 3.5113298508804291e-05</internalNodes>
+      <leafValues>
+        2.0677404105663300e-01 -6.6747921705245972e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 146789 4.5946065336465836e-02</internalNodes>
+      <leafValues>
+        -3.8253849744796753e-01 3.8972172141075134e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 16600 1.9710503518581390e-02</internalNodes>
+      <leafValues>
+        -2.8734931349754333e-01 6.1168158054351807e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 37113 -2.5781907606869936e-03</internalNodes>
+      <leafValues>
+        6.2221419811248779e-01 -2.5246036052703857e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 162254 1.4364214148372412e-03</internalNodes>
+      <leafValues>
+        2.6362690329551697e-01 -6.2571609020233154e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 105735 8.5600223392248154e-03</internalNodes>
+      <leafValues>
+        -1.7140974104404449e-01 8.2515382766723633e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 44875 -1.9164474215358496e-03</internalNodes>
+      <leafValues>
+        -5.0583487749099731e-01 3.2976457476615906e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 123416 -1.3766227290034294e-02</internalNodes>
+      <leafValues>
+        9.3229961395263672e-01 -1.9715870916843414e-01</leafValues></_></weakClassifiers></stage17>
+</opencv_storage>
