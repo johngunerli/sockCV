@@ -3,3 +3,7 @@ https://medium.com/@vipulgote4/guide-to-make-custom-haar-cascade-xml-file-for-ob
 https://amin-ahmadi.com/cascade-trainer-gui/
 
 ![WhatsApp Image 2022-12-10 at 20 02 17](https://user-images.githubusercontent.com/33205097/206881673-9a5dcf10-fe29-42fc-9b4f-07837a9c83c2.jpg)
+
+https://github.com/npinto/opencv/blob/master/samples/python2/facedetect.py
+
+https://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html#cascadeclassifier-detectmultiscale
